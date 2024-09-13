@@ -21,3 +21,13 @@ I'm a passionate **Information Technology student** currently studying at **Poli
 ### 📫 How to reach me: 
 - [LinkedIn](https://linkedin.com/gemahafizh/)  
 - Email: gema.hafizh.maulidi@gmail.com
+
+## 📊 GitHub Statistics
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=gemahafizhmaulidi&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gemahafizhmaulidi&theme=radical)
+
+## 🏆 GitHub Trophies
+![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gemahafizhmaulidi&theme=radical)
+
