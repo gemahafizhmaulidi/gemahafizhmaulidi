@@ -23,7 +23,10 @@ I'm a passionate **Information Technology student** currently studying at **Poli
 - Email: gema.hafizh.maulidi@gmail.com
 
 ## 📊 GitHub Statistics
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=gemahafizhmaulidi&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gemahafizhmaulidi&show_icons=true&theme=radical" alt="Gema's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemahafizhmaulidi&layout=compact&theme=radical" alt="Gema's Top Languages" height="180em" />
+</div>
 
 ## 🔥 Streak Stats
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gemahafizhmaulidi&theme=radical)
